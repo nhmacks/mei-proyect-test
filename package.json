@@ -1,0 +1,24 @@
+{
+  "name": "web-proyecto-ejemplo",
+  "version": "1.0.0",
+  "description": "Un proyecto web de ejemplo con HTML, CSS y JavaScript.",
+  "main": "src/scripts/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "web",
+    "ejemplo",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
